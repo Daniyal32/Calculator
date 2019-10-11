@@ -1,2 +1,2 @@
-# Calculatorpy
-A simple calculator made using Python.
+# Calculator
+A simple calculator made in Python 3
